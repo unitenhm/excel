@@ -1,7 +1,7 @@
 #group,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
 #datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
 #default,_result,,,,,,,,,
-,result,table,_start,_stop,_time,_value,_microcontroller,_measurement,Sensor,Type
+,result,table,_start,_stop,_time,_value,_field,_measurement,Sensor,Type
 ,,0,2022-06-26T12:47:46.649639Z,2022-06-27T19:47:46.649639Z,2022-06-26T12:50:00.52Z,3,ESP32,Tower 1,10 DOF,Wind
 ,,0,2022-06-26T12:47:46.649639Z,2022-06-27T19:47:46.649639Z,2022-06-26T13:50:00.52Z,5,ESP32,Tower 1 ,10 DOF,Wind
 ,,0,2022-06-26T12:47:46.649639Z,2022-06-27T19:47:46.649639Z,2022-06-26T14:50:00.52Z,4,ESP32,Tower 1,10 DOF,Wind
